@@ -1,0 +1,20 @@
+# CSC111 Winter 2025: Python libraries we'll be using this semester.
+
+# Testing and code checking
+hypothesis~=6.124.7
+pytest~=8.3.4
+python-ta~=2.9.1
+
+# Graphics and data visualization
+plotly>=5.22.0
+pygame==2.6.1
+
+# Specific to a later exercise
+networkx~=3.4.2
+numpy
+scipy
+kaleido
+
+pandas~=2.2.3
+matplotlib~=3.10.1
+anytree~=2.12.1
